@@ -8,12 +8,24 @@ Sou Brasileiro e resido em Portugal.
 Desenvolvedor em expansão de carreira, apaixonado por tecnologia, impressão 3D, modelagem 3D. 
 Busco uma oportunidade como desenvolvedor Fullstack, para integrar uma equipe dinâmica onde possa aplicar minhas habilidades contribuindo para a criação de produtos inovadores."
 
-- 📖 - JavaScript (ES6+)
-      - HTML5 (Semântico e acessível)
-      - CSS3 (Flexbox e Grid)
-      - Javascript
-      - Node.js ️
-      - React.js
+- 📖 - Full-Stack:  
+     - JavaScript (ES6+)  
+     - React.js  
+     - HTML5 (Semântico e acessível)  
+     - CSS3 (Flexbox e Grid)  
+     - Javascript  
+     - Node.js   ️  
+     - Git  
+     - GitHub  
+     - Rest API  
+     - React.js  
+     - MongoDB  
+     - Vite  
+     - Babel  
+     - Webpack  
+     - NPM  
+
+  
   
 - 🔭 Atualmente trabalho como programador de robôs ABB.
 - 📫  - xande.xas@gmail.com
