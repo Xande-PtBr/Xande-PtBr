@@ -3,7 +3,6 @@ Sou Brasileiro e resido em Portugal.
 
 👨‍🎓 Formado em Administração com Habilitação em Análises de Sistemas.  
 🎓 Bootcamp TripleTen Brasil - Desenvolvedor Full-StacK.  
-🎓 Pós-graduação Ciência de Dados - "Cursando"  
 
 Desenvolvedor em expansão de carreira, apaixonado por tecnologia, impressão 3D, modelagem 3D. 
 Busco uma oportunidade como desenvolvedor Fullstack, para integrar uma equipe dinâmica onde possa aplicar minhas habilidades contribuindo para a criação de produtos inovadores."
