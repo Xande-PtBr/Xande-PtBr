@@ -2,15 +2,13 @@
 Sou Brasileiro e resido em Portugal.
 
 👨‍🎓 Formado em Administração com Habilitação em Análises de Sistemas.  
-🎓 Bootcamp TripleTen Brasil - Desenvolvedor Full-StacK.  
+🎓 Bootcamp TripleTen Brasil - Desenvolvedor Full-StacK. 
+<br/>
+📚 CENCAL - EFA Profissional Programador de Informática Portugal ( Atual em Formação 😊 ).
 
 Desenvolvedor em expansão de carreira, apaixonado por tecnologia, impressão 3D, modelagem 3D. 
 Busco uma oportunidade como desenvolvedor Fullstack, para integrar uma equipe dinâmica onde possa aplicar minhas habilidades contribuindo para a criação de produtos inovadores."
-
-
-
-
-
+<br/>
 
 <!-- <img 
     align="left" 
@@ -44,12 +42,6 @@ Busco uma oportunidade como desenvolvedor Fullstack, para integrar uma equipe di
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 /> -->
-
-<br/>
-<br/>
-
-
-
 
  
 ## Desenvolvedor Full-Stack
